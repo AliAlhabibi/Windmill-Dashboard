@@ -17,17 +17,17 @@ Clone or download this repo and everything you need is inside the `public` folde
 
 با دستور زیر می توانید پروژه را کلون و استفاده کنید:
 ```sh
-https://github.com/AliAlhabibi/Windmill.git
+https://github.com/AliAlhabibi/Windmill-Dashboard.git
 ```
 ## 🖼️ Screenshots
-## داشبورد
+##  نمای داشبورد
 
-![index](https://github.com/AliAlhabibi/Windmill/assets/110932385/a211c552-7e0c-45f3-8a0e-e1dd12f2c7ee)
+![index](https://github.com/AliAlhabibi/Windmill-Dashboard/assets/110932385/ec63419d-c6c8-4367-ac66-683a5b16d162)
 
-### دارک مود
+### نمای دارک مود
 
 
-![dark](https://github.com/AliAlhabibi/Windmill/assets/110932385/0d2c6132-37ef-487c-9b49-b101295556be)
+![dark](https://github.com/AliAlhabibi/Windmill-Dashboard/assets/110932385/a0ed6225-6215-429b-a928-86918330f821)
 
 
 ## OSS used
