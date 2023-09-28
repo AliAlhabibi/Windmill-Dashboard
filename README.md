@@ -32,6 +32,7 @@ https://github.com/AliAlhabibi/Windmill.git
 
 ## OSS used
 
+- [Windmill Original Project](https://github.com/estevanmaito/windmill-dashboard)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [PostCSS](https://postcss.org/)
 - [Alpine.js](https://github.com/alpinejs/alpine)
