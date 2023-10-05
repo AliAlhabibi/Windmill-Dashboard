@@ -24,7 +24,7 @@ https://github.com/AliAlhabibi/Windmill-Dashboard.git
 
 ![index](https://github.com/AliAlhabibi/Windmill-Dashboard/assets/110932385/ec63419d-c6c8-4367-ac66-683a5b16d162)
 
-### نمای دارک مود
+### دارک مود
 
 
 ![dark](https://github.com/AliAlhabibi/Windmill-Dashboard/assets/110932385/a0ed6225-6215-429b-a928-86918330f821)
