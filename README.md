@@ -17,7 +17,7 @@ Clone or download this repo and everything you need is inside the `public` folde
 
 با دستور زیر می توانید پروژه را کلون و استفاده کنید:
 ```sh
-https://github.com/AliAlhabibi/Windmill-Dashboard.git
+git clone https://github.com/AliAlhabibi/Windmill-Dashboard.git
 ```
 ## 🖼️ Screenshots
 ##  نمای داشبورد
